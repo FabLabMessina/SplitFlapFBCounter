@@ -1,2 +1,2 @@
 # SplitFlapFBCounter
-A Facebook page like counter with split-flap display
+A Facebook page likes counter with split-flap display
